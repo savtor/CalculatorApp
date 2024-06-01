@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Calculator Application
 
 This is a simple calculator application built using Python and Tkinter.
@@ -19,3 +20,7 @@ This is a simple calculator application built using Python and Tkinter.
 
 - Python
 - Tkinter
+=======
+# CalculatorApp
+A simple calculator made using Python.
+>>>>>>> 38f8cf6f26303870207fa19b616a78768ed33e07
